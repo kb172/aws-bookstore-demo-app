@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import React from "react";
 import "../../common/styles/productRow.css";
 import StarRating from "../../common/starRating/StarRating";

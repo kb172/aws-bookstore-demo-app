@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import React, { Component } from "react";
 import { Redirect } from "react-router";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";

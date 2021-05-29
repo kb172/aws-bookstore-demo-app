@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import React from "react";
 import { ProductRow } from "./ProductRow";
 import { API } from "aws-amplify";

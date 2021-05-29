@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import React from "react";
 import { Redirect } from 'react-router';
 import { FormGroup, FormControl, ControlLabel, Button, Glyphicon } from "react-bootstrap";

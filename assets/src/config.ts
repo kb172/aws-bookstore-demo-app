@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 export default {
   apiGateway: {
     REGION: "us-east-1",

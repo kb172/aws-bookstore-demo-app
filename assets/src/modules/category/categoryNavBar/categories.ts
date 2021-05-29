@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",

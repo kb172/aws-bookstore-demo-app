@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import { Auth } from "aws-amplify";
 import React, { Component, Fragment } from "react";
 import { LinkContainer } from "react-router-bootstrap";

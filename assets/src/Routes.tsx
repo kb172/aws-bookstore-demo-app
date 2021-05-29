@@ -1,3 +1,4 @@
+/* Name: Kyle Beaumont, ID: 1505627 */
 import React from "react";
 import { Route, Switch } from "react-router-dom";
 import Checkout from "./modules/checkout/Checkout";
